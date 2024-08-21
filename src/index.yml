@@ -1,32 +1,26 @@
 layout: layouts/base.vto
 header:
-  title: Lume Land
-  description: I make static websites.
-  avatar: /avatar.jpg
+    title: Raymond Ato Ghanney
+    description: I build web applications.
+    avatar: /sankofa.png
 metas:
-  title: =header.title
-  description: =header.description
-  image: =header.avatar
-  generator: true
-  twitter: ''
+    title: =header.title
+    description: =header.description
+    image: =header.avatar
+    generator: true
+    twitter: ""
 links:
-  - text: Website
-    href: 'https://lume.land'
-    type: ''
-  - type: mastodon
-    text: '@lume@fosstodon.org'
-    href: 'https://fosstodon.org/@lume'
-  - type: github
-    text: GitHub
-    href: 'https://github.com/lumeland/'
-  - type: spotify
-    text: Spotify
-    href: 'https://open.spotify.com/user/oscarotero'
-  - type: discord
-    text: Discord
-    href: 'https://discord.gg/YbTmpACHWB'
-  - type: opencollective
-    text: Open Collective
-    href: 'https://opencollective.com/lume'
+    - text: Website
+      href: "https://chiefportable.github.io"
+      type: ""
+    - type: x
+      text: "Twitter"
+      href: "https://twitter.com/chiefportable"
+    - type: github
+      text: GitHub
+      href: "https://github.com/chiefportable"
+    - type: protonmail
+      text: "Protonmail"
+      href: "mailto:kwamea236@protonmail.com"
 footer: "Powered by [Lume](https://lume.land) & [SimpleMe](https://github.com/lumeland/theme-simple-me) theme"
-extra_head: ''
+extra_head: ""
