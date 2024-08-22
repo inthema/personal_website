@@ -11,14 +11,14 @@ metas:
     twitter: ""
 links:
     - text: Website
-      href: "https://inthema.github.io"
+      href: "https://inthema.netlify.app"
       type: ""
     - type: x
       text: "Twitter"
       href: "https://twitter.com/chiefportable"
     - type: github
       text: GitHub
-      href: "https://github.com/chiefportable"
+      href: "https://github.com/inthema"
     - type: protonmail
       text: "Protonmail"
       href: "mailto:kwamea236@protonmail.com"
